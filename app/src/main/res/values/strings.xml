@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RealTimeTracker</string>
+    <string name="connection_paused">Connection Paused</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="car_str">Car</string>
+    <string name="bicycle_str">Bicycle</string>
+    <string name="foot_str">Foot</string>
+    <string name="running_str">Running</string>
+    <string name="still_str">Still</string>
+    <string name="tilting_str">Tilting</string>
+    <string name="walking_str">Walking</string>
+    <string name="unknown_str">Unknown</string>
+</resources>
